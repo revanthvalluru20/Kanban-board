@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/revanthvalluru20.github.io/kanban-board/static/css/main.d69d1857.css",
+    "main.js": "/revanthvalluru20.github.io/kanban-board/static/js/main.6fd010d6.js",
+    "index.html": "/revanthvalluru20.github.io/kanban-board/index.html",
+    "main.d69d1857.css.map": "/revanthvalluru20.github.io/kanban-board/static/css/main.d69d1857.css.map",
+    "main.6fd010d6.js.map": "/revanthvalluru20.github.io/kanban-board/static/js/main.6fd010d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69d1857.css",
+    "static/js/main.6fd010d6.js"
+  ]
+}
